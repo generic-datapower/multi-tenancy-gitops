@@ -2,7 +2,7 @@ resources:
 # IBM Software
 
 - argocd/operators/ibm-datapower-operator.yaml
-- argocd/instances/ibm-datapower-instance.yaml
+# - argocd/instances/ibm-datapower-instance.yaml
 
 ## IBM Foundational Services / Common Services
 - argocd/operators/ibm-foundations.yaml
